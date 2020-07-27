@@ -216,3 +216,4 @@ folder so that it looks like so:
 ``` $ tree .  └── rottenpotatoes
     ├── Gemfile ├── Gemfile.lock ├── app ...
 ```
+[![Build Status](https://travis-ci.org/DJWC-0415/rottenpotatoes-rails-intro.svg?branch=master)](https://travis-ci.org/DJWC-0415/rottenpotatoes-rails-intro)
